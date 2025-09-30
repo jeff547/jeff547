@@ -11,10 +11,12 @@
 
 ---
 
-🎓 **Education**  
-**Rutgers University**  
-_B.S. in Computer Science and Mathematics_  
-New Brunswick, NJ (Aug. 2025 – May 2029)
+### About Me
+
+- 🎓 I’m currently studying Mathematics and Computer Science at Rutgers University.
+- 💡 I enjoy building interesting and practical web/mobile apps that make everyday life easier.
+- 🤖 I’m especially interested in machine learning—both its applications and the research driving it.
+- ⚡ I love learning new technologies, exploring tools, and solving problems through code.
 
 ---
 
