@@ -1,8 +1,13 @@
 # Hi, I’m Jeffrey Lu! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeffrey-lu)
-[![GitHub](https://img.shields.io/badge/GitHub-jeff547-black?logo=github)](https://github.com/jeff547)
-[![Resume](https://img.shields.io/badge/Resume-PDF-informational)](./your-resume-file-name.pdf)
+<p>
+  <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
+    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+  <a href="https://github.com/[removed]" rel="nofollow noreferrer">
+    <img src="https://i.sstatic.net/tskMh.png" alt="github"> Github
+  </a>
+</p>
 
 ---
 
@@ -13,13 +18,20 @@ New Brunswick, NJ (Aug. 2025 – May 2029)
 
 ---
 
-## 🛠️ Skills
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skills***
 
-- **Languages:** Python, C/C++, Java, Dart, SQL, TypeScript/JavaScript, HTML/CSS, LaTeX
-- **Frameworks:** React, Flutter, Next.js, Node.js
-- **Tools:** FastAPI, SQLAlchemy, PyTorch, Scikit-learn, Git, VS Code, Linux, Firebase, Docker
-- **Databases:** PostgreSQL, Firebase Firestore, SQLite
-- **Other:** API Design, Unit/Integration Testing (Pytest)
+###### Languages
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,java,js,dart,latex)](https://skillicons.dev)
+###### Frontend Development
+[![My Skills](https://skillicons.dev/icons?i=react,flutter,html,css)](https://skillicons.dev)
+###### Backend Development
+[![My Skills](https://skillicons.dev/icons?i=fastapi,nodejs,flask)](https://skillicons.dev)
+###### Database Management
+[![My Skills](https://skillicons.dev/icons?i=postgres,firebase,sqlite)](https://skillicons.dev)
+###### Dev Tools
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,linux,cmake)](https://skillicons.dev)
+###### Machine Learning
+[![My Skills](https://skillicons.dev/icons?i=pytorch,sklearn)](https://skillicons.dev)
 
 ---
 
